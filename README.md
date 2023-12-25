@@ -30,4 +30,4 @@ I am a fullstack developer from Pakistan PK and I am seeking for a Mern Stack De
 
 ### My Portfolio
 
-<a href="https://zain-khan-25.vercel.app/" title="Zain Khan Portfolio" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/121414309?v=4" alt="Portfolio" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://zain-khan-25.vercel.app/" title="Zain Khan Portfolio" target="_blank" rel="noreferrer"><img src="https://www.pngitem.com/pimgs/m/548-5486247_portfolio-icon-design-icon-applewar-hd-png-download.png" alt="Portfolio" width="30" height="30"/></a>&nbsp;&nbsp;
