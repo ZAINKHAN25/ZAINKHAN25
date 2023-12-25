@@ -18,6 +18,7 @@ I am a fullstack developer from Pakistan PK and I am seeking for a Mern Stack De
 <a href="" title="HTML" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="CSS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Bootsrap" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Firebase" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 
 ### I post actively on ...
 
@@ -26,8 +27,3 @@ I am a fullstack developer from Pakistan PK and I am seeking for a Mern Stack De
 ### You can also find me on ...
 
 <a href="mailto:zainarfeen87@gmail.com" target="_blank" title="zainarfeen87@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
-
-
-### My Portfolio
-
-<a href="https://zain-khan-25.vercel.app/" title="Zain Khan Portfolio" target="_blank" rel="noreferrer"><img src="https://www.pngitem.com/pimgs/m/548-5486247_portfolio-icon-design-icon-applewar-hd-png-download.png" alt="Portfolio" width="30" height="30"/></a>&nbsp;&nbsp;
