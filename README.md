@@ -6,7 +6,7 @@ I am a fullstack developer from Pakistan PK and I am seeking for a Mern Stack De
 
 [![Zain Khn 25 GitHub stats](https://github-readme-stats.vercel.app/api?username=zainkhan25&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainkhan25" alt="zainkhan25" /></a> </p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=zainkhan25&theme=dark&background=000000"/></p>
 
 
 
