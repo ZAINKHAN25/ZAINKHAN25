@@ -4,7 +4,7 @@ I am a fullstack developer from Pakistan PK and I am seeking for a Mern Stack De
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainkhan25&label=Profile%20views&color=0e75b6&style=flat" alt="zainkhan25" /> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainkhan25&show_icons=true&bg_color=00000000)
+![Zain Khan 25's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainkhan25&show_icons=true&bg_color=00000000)
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=zainkhan25&theme=dark&background=000000"/></p>
 
 
