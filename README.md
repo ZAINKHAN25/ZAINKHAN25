@@ -2,7 +2,11 @@
 
 I am a fullstack developer from Pakistan PK and I am seeking for a Mern Stack Developer Job
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zainkhan25&label=Profile%20views&color=0e75b6&style=flat" alt="zainkhan25" /> </p>
+
 [![Zain Khn 25 GitHub stats](https://github-readme-stats.vercel.app/api?username=zainkhan25&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainkhan25" alt="zainkhan25" /></a> </p>
 
 
 
