@@ -1,6 +1,6 @@
 ## Hello👋 I'm Zain Khan ‍💻
 
-I am a fullstack developer from Pakistan PK and I am seeking for a Mern Stack Developer Job
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20B2AA&size=35&center=true&vCenter=true&width=1000&lines=I+am+Zain;I+am+15+year's+old;I+am+a+fullstack+developer+from+Pakistan+PK.;And+I+am+seeking+for+a+Mern+Stack+Developer+Job;)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainkhan25&label=Profile%20views&color=0e75b6&style=flat" alt="zainkhan25" /> </p>
 
