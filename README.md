@@ -4,11 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainkhan25&label=Profile%20views&color=0e75b6&style=flat" alt="zainkhan25" /> </p>
 
-![Zain Khan 25's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainkhan25&show_icons=true&bg_color=00000000)
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=zainkhan25&theme=dark&background=000000"/></p>
 
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=zainkhan25&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ### Currently I am working with ...
 
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
