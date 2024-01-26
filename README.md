@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainkhan25&label=Profile%20views&color=0e75b6&style=flat" alt="zainkhan25" /> </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=zainkhan25&theme=dark&hide_border=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zainkhan25&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ### Currently I am working with ...
 
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
