@@ -1,6 +1,6 @@
 ## Hello👋 I'm Zain Khan ‍💻
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=I+am+Zain;I+am+15+year's+old;I+am+a+fullstack+developer+from+Pakistan+PK.;And+I+am+seeking+for+a+Mern+Stack+Developer+Job;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&size=35&center=true&vCenter=true&width=1000&lines=I+am+Zain;I+am+15+year's+old;I+am+a+fullstack+developer+from+Pakistan+PK.;And+I+am+seeking+for+a+Mern+Stack+Developer+Job;)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainkhan25&label=Profile%20views&color=0e75b6&style=flat" alt="zainkhan25" /> </p>
 
