@@ -7,6 +7,7 @@
 ### My Total Contributions
 [![GitHub Streak](https://streak-stats.demolab.com?user=zainkhan25&theme=dark&hide_border=true&card_width=300&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
+![Zain Khan's 25 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zainkhan25&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)
 
 ### Currently I am working with ...
 
