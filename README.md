@@ -5,7 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainkhan25&label=Profile%20views&color=0e75b6&style=flat" alt="zainkhan25" /> </p>
 
 ### My Total Contributions
-[![GitHub Streak](https://streak-stats.demolab.com?user=zainkhan25&theme=dark&hide_border=true&card_width=300&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=zainkhan25&theme=dark&background=000000"/></p>
+
 
 ![Zain Khan's 25 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zainkhan25&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)
 
