@@ -38,3 +38,5 @@
 
 <a href="mailto:zainarfeen87@gmail.com" target="_blank" title="zainarfeen87@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
   
+<br/>  
+<h6 align="right">Leave Day 1 (Due To Class 9 Boards Preparation) 🇵🇰</h6>
