@@ -2,7 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?&size=35&center=true&vCenter=true&width=1000&lines=I+am+Zain;I+am+15+year's+old;I+am+a+fullstack+developer+from+Pakistan+PK.;I+am+a+Mern+Stack+Developer.;)](https://git.io/typing-svg)
 
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=zainkhan25&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
+
+[![committers.top badge](https://user-badge.committers.top/pakistan/ZAINKHAN25.svg)](https://user-badge.committers.top/pakistan/zainkhan25)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainkhan25&label=Profile%20views&color=0e75b6&style=flat" alt="zainkhan25" /> </p>
+
 
 ### My Total Contributions
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=zainkhan25&theme=dark&background=000000"/></p>
