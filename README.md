@@ -15,6 +15,8 @@
 
 ![Zain Khan's 25 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zainkhan25&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)
 
+
+<!---
 ### Currently I am working with ...
 
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
@@ -32,7 +34,9 @@
 <a href="" title="HTML" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="CSS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="BOOTSTRAP" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="FIREBASE" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="FIREBASE" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp; -->
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?includeNames=true&languages=html,css,bootstrap,js,firebase,reactjs,ts,vercel,mongodb,expressjs,git,nextjs)](https://github.com/ZainKhan25/github-widgetbox)
 
 
 ### I post actively on ...
