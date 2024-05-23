@@ -36,7 +36,7 @@
 <a href="" title="BOOTSTRAP" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="FIREBASE" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp; -->
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?includeNames=true&languages=html,css,bootstrap,js,firebase,reactjs,ts,vercel,mongodb,expressjs,git,nextjs)](https://github.com/ZainKhan25/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?includeNames=true&languages=html,css,bootstrap,js,firebase,reactjs,ts,nodejs,expressjs,mongodb,vercel,git,nextjs)](https://github.com/ZainKhan25/github-widgetbox)
 
 
 ### I post actively on ...
