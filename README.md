@@ -8,15 +8,13 @@
 [![committers.top badge](https://user-badge.committers.top/pakistan/ZAINKHAN25.svg)](https://user-badge.committers.top/pakistan/zainkhan25)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainkhan25&label=Profile%20views&color=0e75b6&style=flat" alt="zainkhan25" /> </p>
 
-<<<<<<< HEAD
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zainkhan25/zainkhan25/output/github-contribution-grid-snake.svg">
 </picture>
 
-=======
->>>>>>> 494db376701a65c8edc6e82fed26a2d30ae83b10
 
 ### My Total Contributions
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=zainkhan25&theme=dark&background=000000"/></p>
