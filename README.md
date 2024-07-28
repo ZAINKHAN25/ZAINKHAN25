@@ -9,12 +9,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainkhan25&label=Profile%20views&color=0e75b6&style=flat" alt="zainkhan25" /> </p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zainkhan25/zainkhan25/output/github-contribution-grid-snake.svg">
-</picture>
-
 
 ### My Total Contributions
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=zainkhan25&theme=dark&background=000000"/></p>
