@@ -25,7 +25,6 @@ Welcome to my GitHub profile. I'm a passionate **MERN Stack Developer** from Pak
 
 
 <br />
-<br />
 
 # My Stats 🔥:
 
