@@ -5,7 +5,11 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&size=35&center=true&vCenter=true&width=1000&lines=I+am+Zain;I+am+15+year's+old;I+am+a+fullstack+developer+from+Pakistan+PK.;I+am+a+Mern+Stack+Developer.;)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?&size=35&center=true&vCenter=true&width=1000&lines=I+am+Zain;I+am+15+year's+old;I+am+a+fullstack+developer+from+Pakistan+PK.;I+am+a+Mern+Stack+Developer.;)](https://git.io/typing-svg) -->
+
+# About Me:
+
+Welcome to my GitHub profile. I'm a passionate **MERN Stack Developer** from Pakistan, and I'm excited to share my journey and projects with you. At just 16 years old, I’ve dedicated myself to mastering the MERN stack and a variety of other technologies. Here’s a bit more about me:
 
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=zainkhan25&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
