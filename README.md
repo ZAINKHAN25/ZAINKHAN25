@@ -23,13 +23,39 @@ Welcome to my GitHub profile. I'm a passionate **MERN Stack Developer** from Pak
 - 💻 **Expertise:** MERN Stack, HTML, CSS, Bootstrap, JavaScript, Firebase, React.js, Node.js, Express.js, MongoDB.
 - 🎨 **UI Libraries:** Chakra UI, Tailwind CSS, Material UI, Ant Design.
 
-### My Total Contributions
 
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=zainkhan25&theme=dark&background=000000"/></p>
+<br />
+<br />
 
-![Zain Khan's 25 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zainkhan25&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)
+# My Stats 🔥:
 
-<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?includeNames=true&languages=html,css,bootstrap,js,firebase,reactjs,ts,nodejs,expressjs,mongodb,vercel,git,nextjs)](https://github.com/ZainKhan25/github-widgetbox) -->
+<div style="display: flex; justify-content: center; align-items: start; flex-direction: column;">
+
+  <div>
+
+  ![zainkhan25's Stats](https://github-readme-stats.vercel.app/api?username=zainkhan25&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+  </div>
+
+  <div>
+
+  ![zainkhan25's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zainkhan25&theme=tokyonight&hide_border=true)
+  
+  </div>
+
+  <div>
+
+  ![zainkhan25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainkhan25&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+  </div>
+
+  <div>
+
+  ![Zain Khan's 25 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zainkhan25&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)
+
+  </div>
+
+</div>
 
 ### I post actively on ...
 
