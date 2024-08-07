@@ -70,4 +70,6 @@ Welcome to my GitHub profile. I'm a passionate **MERN Stack Developer** from Pak
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thanks%20for%20reading%20the%20readme.&textBg=false&animation=scaleIn&fontSize=30&section=footer&fontAlignY=70)
 
+ <!--- aliquwygd -->
+
 </div>
