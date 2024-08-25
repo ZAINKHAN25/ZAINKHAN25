@@ -10,7 +10,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/pakistan/ZAINKHAN25.svg)](https://user-badge.committers.top/pakistan/zainkhan25)
 
- <img src="https://komarev.com/ghpvc/?username=zainkhan25&label=Profile%20views&color=0e75b6&style=flat" alt="zainkhan25" />
+ <img src="https://komarev.com/ghpvc/?username=ZAINKHAN25&label=Profile%20views&color=0e75b6&style=flat" alt="zainkhan25" />
 
 </div>
 
@@ -32,19 +32,19 @@ Welcome to my GitHub profile. I'm a passionate **MERN Stack Developer** from Pak
 
   <div>
 
-  ![zainkhan25's Stats](https://github-readme-stats.vercel.app/api?username=zainkhan25&theme=ocean-gradient&show_icons=true&hide_border=true&count_private=true)
+  ![zainkhan25's Stats](https://github-readme-stats.vercel.app/api?username=zainkhan25&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
   </div>
 
   <div>
 
-  ![zainkhan25's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zainkhan25&theme=ocean-gradient&hide_border=true)
+  ![zainkhan25's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zainkhan25&theme=tokyonight&hide_border=true)
   
   </div>
 
   <div>
 
-  ![zainkhan25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainkhan25&theme=ocean-gradient&show_icons=true&hide_border=true&layout=compact)
+  ![zainkhan25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainkhan25&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
   </div>
 
