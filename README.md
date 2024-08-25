@@ -10,7 +10,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/pakistan/ZAINKHAN25.svg)](https://user-badge.committers.top/pakistan/zainkhan25)
 
- <img src="https://komarev.com/ghpvc/?username=zainkhan25&label=Profile%20views&color=0e75b6&style=flat" alt="zainkhan25" />
+ <img src="https://komarev.com/ghpvc/?username=ZAINKHAN25&label=Profile%20views&color=0e75b6&style=flat" alt="zainkhan25" />
 
 </div>
 
@@ -20,7 +20,7 @@ Welcome to my GitHub profile. I'm a passionate **MERN Stack Developer** from Pak
 
 - 🌍 **Location:** Pakistan, Karachi.
 - 🗓️ **Age:** 16.
-- 💻 **Expertise:** MERN Stack, HTML, CSS, Bootstrap, JavaScript, Firebase, React.js, Node.js, Express.js, MongoDB.
+- 💻 **Expertise:** MERN Stack, HTML, CSS, Bootstrap, JavaScript, Firebase, React.js, Node.js, Express.js, MongoDB, Typescript.
 - 🎨 **UI Libraries:** Chakra UI, Tailwind CSS, Material UI, Ant Design.
 
 
@@ -69,5 +69,7 @@ Welcome to my GitHub profile. I'm a passionate **MERN Stack Developer** from Pak
 <div align="center">
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thanks%20for%20reading%20the%20readme.&textBg=false&animation=scaleIn&fontSize=30&section=footer&fontAlignY=70)
+
+ <!--- aliquwygd -->
 
 </div>
