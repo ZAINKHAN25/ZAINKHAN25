@@ -14,7 +14,6 @@
 
 </div>
 
- ![Snake animation](https://github.com/zainkhan25/zainkhan25/blob/output/github-contribution-grid-snake.svg)
 
 # About Me:
 
