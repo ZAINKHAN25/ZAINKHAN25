@@ -14,6 +14,8 @@
 
 </div>
 
+ ![Snake animation](https://github.com/zainkhan25/zainkhan25/blob/output/github-contribution-grid-snake.svg)
+
 # About Me:
 
 Welcome to my GitHub profile. I'm a passionate **MERN Stack Developer** from Pakistan, and I'm excited to share my journey and projects with you. At just 16 years old, I’ve dedicated myself to mastering the MERN stack and a variety of other technologies. Here’s a bit more about me:
