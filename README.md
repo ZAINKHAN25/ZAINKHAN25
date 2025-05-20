@@ -19,7 +19,6 @@
 Welcome to my GitHub profile. I'm a passionate **MERN Stack Developer** from Pakistan, and I'm excited to share my journey and projects with you. At just 16 years old, I’ve dedicated myself to mastering the MERN stack and a variety of other technologies. Here’s a bit more about me:
 
 - 🌍 **Location:** Pakistan, Karachi.
-- 🗓️ **Age:** 16.
 - 💻 **Expertise:** MERN Stack, HTML, CSS, Bootstrap, JavaScript, Firebase, React.js, Node.js, Express.js, MongoDB, Typescript.
 - 🎨 **UI Libraries:** Chakra UI, Tailwind CSS, Material UI, Ant Design.
 
