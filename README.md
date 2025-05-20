@@ -15,9 +15,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zainkhan25/zainkhan25/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zainkhan25/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/zainkhan25/zainkhan25/output/github-snake.svg" />
 </picture>
 
 # About Me:
@@ -28,6 +28,7 @@ Welcome to my GitHub profile. I'm a passionate **MERN Stack Developer** from Pak
 - 💻 **Expertise:** MERN Stack, HTML, CSS, Bootstrap, JavaScript, Firebase, React.js, Node.js, Express.js, MongoDB, Typescript.
 - 🎨 **UI Libraries:** Chakra UI, Tailwind CSS, Material UI, Ant Design.
 
+
 <br />
 
 # My Stats 🔥:
@@ -36,25 +37,25 @@ Welcome to my GitHub profile. I'm a passionate **MERN Stack Developer** from Pak
 
   <div>
 
-![zainkhan25's Stats](https://github-readme-stats.vercel.app/api?username=zainkhan25&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+  ![zainkhan25's Stats](https://github-readme-stats.vercel.app/api?username=zainkhan25&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
   </div>
 
   <div>
 
-![zainkhan25's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zainkhan25&theme=tokyonight&hide_border=true)
+  ![zainkhan25's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zainkhan25&theme=tokyonight&hide_border=true)
+  
+  </div>
+
+  <div>
+
+  ![zainkhan25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainkhan25&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
   </div>
 
   <div>
 
-![zainkhan25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainkhan25&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-  </div>
-
-  <div>
-
-![Zain Khan's 25 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zainkhan25&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)
+  ![Zain Khan's 25 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zainkhan25&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)
 
   </div>
 
@@ -73,6 +74,7 @@ Welcome to my GitHub profile. I'm a passionate **MERN Stack Developer** from Pak
 <div align="center">
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thanks%20for%20reading%20the%20readme.&textBg=false&animation=scaleIn&fontSize=30&section=footer&fontAlignY=70)
+
 
  <!--- aliquwygd -->
 
