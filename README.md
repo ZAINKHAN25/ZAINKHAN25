@@ -8,7 +8,6 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=zainkhan25&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/ZainKhan/ZainKhan-widgetbox)
 
-[![committers.top badge](https://user-badge.committers.top/pakistan/ZAINKHAN25.svg)](https://user-badge.committers.top/pakistan/zainkhan25)
 
  <img src="https://komarev.com/ghpvc/?username=ZAINKHAN25&label=Profile%20views&color=0e75b6&style=flat" alt="zainkhan25" />
 
